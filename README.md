@@ -1,7 +1,7 @@
 # Lab7Web_PHP — Praktikum 7: Pemrograman Server-Side dengan PHP
 
 **Mata kuliah:** Pemrograman Web  
-**Nama / NIM:** _(isi di sini)_
+**Nama / NIM:** _(Hafiz Faturrohman / 312210375)_
 
 ## Tujuan
 Memahami pemrosesan server-side, sintaks PHP, variabel, percabangan, perulangan, function, serta pemrosesan form GET/POST dengan validasi dan sanitasi input.
